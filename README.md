@@ -11,7 +11,6 @@ This project predicts Liverpool's position and points for the 2024-2025 season u
 3. [Methodology](#methodology)
 4. [Usage](#usage)
 5. [Results](#results)
-6. [Visualizations](#visualizations)
 7. [License](#license)
 
 ---
